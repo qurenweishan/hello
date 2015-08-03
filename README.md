@@ -1,22 +1,24 @@
-# ÎÒµÄµÚÒ»¸öGitHubÏîÄ¿
+# æˆ‘çš„ç¬¬ä¸€ä¸ªGitHubé¡¹ç›®
 
-ÕâÊÇÏîÄ¿ [helloworld](https://github.com/gotgithub/helloworld) £¬
-»¶Ó­·ÃÎÊ¡£
+è¿™æ˜¯é¡¹ç›® [helloworld](https://github.com/gotgithub/helloworld) ï¼Œ
+æ¬¢è¿è®¿é—®ã€‚
 
-Õâ¸öÏîÄ¿µÄ°æ±¾¿âÊÇ **Git¸ñÊ½** £¬ÔÚ Windows¡¢Linux¡¢Mac OS X
-Æ½Ì¨¶¼ÓĞ¿Í»§¶Ë¹¤¾ß¿ÉÒÔ·ÃÎÊ¡£ËäÈ»°æ±¾¿âÖ»Ìá¹©GitÒ»ÖÖ¸ñÊ½£¬
-µ«ÊÇÄã»¹ÊÇ¿ÉÒÔÓÃÆäËûÓÃÆäËû¹¤¾ß·ÃÎÊ£¬Èç ``svn`` ºÍ ``hg`` ¡£
+è¿™ä¸ªé¡¹ç›®çš„ç‰ˆæœ¬åº“æ˜¯ **Gitæ ¼å¼** ï¼Œåœ¨ Windowsã€Linuxã€Mac OS X
+å¹³å°éƒ½æœ‰å®¢æˆ·ç«¯å·¥å…·å¯ä»¥è®¿é—®ã€‚è™½ç„¶ç‰ˆæœ¬åº“åªæä¾›Gitä¸€ç§æ ¼å¼ï¼Œ
+ä½†æ˜¯ä½ è¿˜æ˜¯å¯ä»¥ç”¨å…¶ä»–ç”¨å…¶ä»–å·¥å…·è®¿é—®ï¼Œå¦‚ ``svn`` å’Œ ``hg`` ã€‚
 
-## °æ±¾¿âµØÖ·
+## ç‰ˆæœ¬åº“åœ°å€
 
-Ö§³ÖÈıÖÖ·ÃÎÊĞ­Òé£º
+æ”¯æŒä¸‰ç§è®¿é—®åè®®ï¼š
 
-* HTTPĞ­Òé: `https://github.com/gotgithub/helloworld.git` ¡£
-* GitĞ­Òé: `git://github.com/gotgithub/helloworld.git` ¡£
-* SSHĞ­Òé: `ssh://git@github.com/gotgithub/helloworld.git` ¡£
+* HTTPåè®®: `https://github.com/gotgithub/helloworld.git` ã€‚
+* Gitåè®®: `git://github.com/gotgithub/helloworld.git` ã€‚
+* SSHåè®®: `ssh://git@github.com/gotgithub/helloworld.git` ã€‚
 
-## ¿ËÂ¡°æ±¾¿â
+## å…‹éš†ç‰ˆæœ¬åº“
 
-²Ù×÷Ê¾Àı£º
+æ“ä½œç¤ºä¾‹ï¼š
 
     $ git clone git://github.com/gotgithub/helloworld.git
+    
+æ­¤æ–‡ä»¶æ˜¯ç³»ç»Ÿè‡ªåŠ¨ç”Ÿæˆçš„
